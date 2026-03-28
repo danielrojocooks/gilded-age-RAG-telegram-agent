@@ -21,7 +21,7 @@ load_dotenv()
 KB_DIR     = Path(__file__).parent / "KB"
 CHROMA_DIR = Path(__file__).parent / "chroma_storage"
 COLLECTION = "gilded_age"
-BATCH_SIZE = 5  # files per batch — keeps peak RAM well under 512MB
+BATCH_SIZE = 2  # files per batch — large text files OOM at 5 on Railway 512MB
 
 EXCLUDE = {
     "delmonico_menu.pdf",

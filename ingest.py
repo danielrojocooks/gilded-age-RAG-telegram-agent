@@ -30,6 +30,8 @@ EXCLUDE = {
     "Grover Cleveland NYT state dinner.pdf",
     # Replaced by book_of_yields_extracted.txt (table-aware extraction)
     "The-Book-of-Yields-Accuracy-in-Food-Costing-and-Purchasing.pdf",
+    # Replaced by RI_Food_Code.txt (SimpleDirectoryReader ingests PDF as binary)
+    "RI_Food_Code.pdf",
 }
 
 Settings.llm         = OpenAI(model="gpt-4o", temperature=0.2)

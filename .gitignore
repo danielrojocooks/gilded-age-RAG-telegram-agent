@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Vector store (large, rebuild with ingest.py)
+chroma_storage/
+storage/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db

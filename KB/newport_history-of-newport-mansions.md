@@ -1,0 +1,10 @@
+# History Of Newport Mansions
+Source: https://www.newportmansions.org/gilded-age/history-of-newport-mansions/
+
+Explore the Gilded Age
+/
+Founded in 1639, Newport was one of the most important port cities in the North American British Colonies during the 18th century, with commerce that included the importation and sale of enslaved persons as well as manufactures such as whale-oil candles, rum and fine furniture. The city’s fortunes declined with the Revolutionary War and its aftermath, but by the early-mid 1800s it was becoming a fashionable summer resort favored for its temperate oceanside climate.
+During the Gilded Age of the late 19th century, Newport gained prominence as leaders of finance and industry from New York and elsewhere built ever-larger “summer cottages” and enjoyed a glittering social life of dinners, sports and parties. By the turn of the century, these cottages included European-inspired palaces such as Marble House, The Breakers, The Elms and Rosecliff.
+The Gilded Age came to a close in the 1910s with the advent of the federal income tax and the First World War. The Great Depression accelerated the decline of the great fortunes of the Gilded Age, and many mansions in Newport received less upkeep, were abandoned or fell to demolition.
+In 1945, The Preservation Society of Newport County was founded by a group of residents to save Hunter House, a 200-year-old Georgian Colonial on the harbor waterfront. Three years later, to raise funds for the restoration of Hunter House, the Preservation Society began giving public tours of The Breakers in collaboration with Countess Széchenyi, the former Gladys Vanderbilt.
+The organization’s first Gilded Age acquisition came in 1962, when it saved The Elms (1901) from being razed. The next year, Marble House (1892) was given to the Preservation Society through the auspices of Harold S. Vanderbilt. More historic houses were purchased or bequeathed over the next decade, including Chateau-sur-Mer (1852), The Breakers (1895), Kingscote (1839) and Rosecliff (1902). Today the Preservation Society is the steward of 11 historic properties, including seven National Historic Landmarks.

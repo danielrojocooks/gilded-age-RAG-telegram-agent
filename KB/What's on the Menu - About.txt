@@ -1,0 +1,263 @@
+--- Page 1 ---
+New York Pul
+
+Explore others! |
+
+What's on the menu? About Oe © |
+
+Menus [Dishes [Data [Blog T [bout [Help
+
+About
+
+With approximately 45,000 menus dating from the 1840s to
+the present, The New York Public Library's restaurant ment
+collection is one ofthe largest in the world, used by
+historians chefs, novelists and everyday food enthusiasts.
+‘Trouble is, the menus are very difficult to search for the
+greatest treasures they contain: specific information about
+dishes, prices the organization of meals, and all the stares
+‘these things tellus about the history of food and eulture,
+
+To solve this, we're working to improve the collection by
+{ransecibing the menus, dish by dish. Doing this will allow us
+to dramatically expand the ways in which the collection can
+bbe researched and accessed, opening the door to new kinds of
+discoveries. We've built a simple tool that makes the
+transecibing pretty easy todo, but its big job, so we need
+your help. Fooling hungry?
+
+Questions? Comments? Want to stay in touel as the project
+develops? Contact us at menus@enyplorg
+
+The menus
+‘The New York Public Library's menu colleetion, housed in
+‘the Rare Book Division, originated through the energetic
+efforts of Miss Frank B, Buttolph (1850-1924), who, in 1900,
+began to collect menus on the Library’ behalf. Miss Buttolph
+added more than 25,000 menus tothe collection, before
+leaving the Library ia 1924, The colleetion has continued to
+sxow through additional its of graphic, gastronomic,
+topical, or sociological interest, especially but not exclusively
+‘Now York-related. The collection now contains
+approximately 45,000 items, about quarter of which have so
+far been digitized and made available in the NYPL Digital
+Gallery
+
+‘he Rare Books Division of The New York Public Library
+houses approximately 200,00 titles, covering five centuries
+of printing from the 1450s to the present—and representing
+Continental Europe, England, and the Americas
+
+FAQ
+What are the goals for this project?
+
+‘When we launched in late April, 2011, our sights were set on
+the approximately 9,000 menus photographed several years
+ago for inclusion in the NYPL Digital Gallery. Volunteers
+‘ransecihed those in about three manths! Since then, welve
+been steadily scanning additional items from the eollection
+and loading them into the transcription queue. The ultimate
+goal isto get the whole colletion transeribed and to make
+the data available for exploration and use by researchers,
+educators, chefs and other interested folk. Along the way, we
+‘may add other user-solicted tasks such as geolocation or
+various remediation and linking ofthe data. We've also
+looking into ways of expanding the seope ofthe dataset
+‘through partnerships with other libraries and archives with
+significant menu collections.
+
+What exaetly will transcribing accomplish?
+
+[Right now, the only information that is digitally searchable in
+‘our ments isthe descriptive data created foreach item when
+they were cataloged. This includes useful things like the
+same of the restaurant, its geographical location, date etc
+But the actual menu contents — all the dishes and wines ones
+‘upon a time offered tothe customer as they pondered the
+‘options for their meal — is only accessible through good old-
+fashioned sifting.
+
+‘How will this information be used?
+
+‘Researchers who use the collection — be they historians,
+chefs, nutritional scfentists, or novelists Tooking fora juiey
+period detail —often have very specific questions they’re
+trying to answer. Where were aysters served in 19th century
+‘New York and how did their vatieties and eost change over
+time? When did apple pe first appear on the Library's
+‘menus? Wat about pizza? What was the price of a cup of
+coffee in 1907?'To find out these sorts of things more easily,
+swe need to extract all the delicious data frozen as pixels
+inside these digital menu photos. The best way todo ths is
+‘ranseciption,
+
+‘Update: A great example of scholarly investigation into the
+still-evolving data set isthe Cursting Mens project of Katie
+‘Rawson and Trevor Mufoa
+
+So just transcribe, and presto?
+
+‘Wall, the data will ned some additional cleanup in order for
+‘ur search engine to handle synonyms, spelling variants,
+faceting, al that good stuff, bat hopefully youll stat to get a
+palpable sense right away of what you're helping to build
+‘Every transeribed item instantly becomes part of a searchable
+index, which allows you to much more nimbly trace dishes,
+‘ingredients and prices across the collection. We'll be
+‘occasionally blogging; and tweeting; about interesting
+discoveries that come up along the way. We also have begun
+tooffer some fun visualizations ofthe data (ike this),
+
+Why transcribe? Why not just (
+
+Good question! There are a few reasons. First, while we could
+get decent OCR output from some of the clearer printed
+menus, many others are handwritten, of use fanciful
+typography and have idiosyncratic layonts that wil result in
+litle more than alpbabet soup if we use mechanical
+‘translation methods. A more compelling reason is that we're
+{interested in unpacking some specific types of information
+‘that are highly relevant to researchers: dishes and prices (and
+eventually menu sections, geographies locations and
+perhaps other data). ven with a erystal clear OCR text, a
+‘human being will still wed to go through and identify each
+‘individual dish, price, section appetizers, entrees, wines
+
+l.), and soon. We're not just seooping out text from pages,
+we're building a database of dishes!
+
+lus, asa library we know that the more that people use a
+collection, the more we collectively learn abont it. Our huneh
+is that there is alot tobe gained by inviting the public to help
+tus go through these fascinating artifacts with carefal
+attention, menu by menu, dish by dish, We also hope that by
+doing so, well stoke people's appetite (soto speak) to explore
+‘the eallection further.
+
+Wait, what's OCR?
+
+Optical Character Recognition. Basially, isthe process by
+which we extract usable, searchable text from scanned pages
+1's how Google Books and Hathi Trust do thetr search.
+Wikipedia has a good explanation,
+
+Need help with anything other than
+transcription?
+
+Right now, we're focused primarily on two tasks: 1)
+‘ransecibing dishes and pries; and 2) geotaseing menus
+‘We've also considered other kinds of work down the road
+‘that will help usadd even more valuc ta the database.
+Possibilities include: menu sectioning (appetizers, entrees,
+‘wines ete). We've also interested to see what the public does
+‘with the data and what new researeh questions they propose,
+
+Can L create an account?
+
+‘Our current policy isto keep things as open as possible, but
+‘we intend eventually tote into a NYPL-wie user aceount
+system thats currently in the works. We'll always preserve
+the option of participating withont a login, but providing,
+‘way for more intensive contributors to identify themselves
+will allow for a community to develop and the possibility of
+‘more complex tasks. We're grateful for the time/effort you've
+devoted to this project so far, and hope tobe able to
+recognize some of our top contributors down the road
+
+Will you pro API, data exports ete
+
+‘We already havel All ofthat ean be found er
+
+as the Library ever done something like
+this before?
+
+‘We have an active project where we're collaborating with the
+public around our historic maps. Tae look!
+
+Team
+Rebecea F
+Rebecca is The New York Public Library's Culinary
+Collections Librarian and Electronic Resources Coordinator.
+‘She is also the eo-eurator of the New York Publie Library's
+latest exhibition Lunch Hour NYC. Rebeesa writes about the
+
+ibrary's culinary collections on her blog Cookesi Books and
+isa visiting professor at Pratt Institute's School of
+Information and Library Science,
+
+Jerman, Project Curato:
+
+Michael Inman, Project Curator
+
+‘Michaelis Curator of Rare Rooks for The Nev York Public
+Library, administering a number ofthe institution's
+collections and departments, including the Rare Hook
+Division, George Arents Collection, and Historie Children's
+Book Collection, among others. Me holds both a BA. and a
+[MLA in English from the University of North Texas and a
+‘MLS. from Pratt Institute's School of Information and
+
+ibrary Science. Michael also serves as a visiting professor at
+Prat Institute, where he teaches eourses on printing history
+and special collections ibrarianship,
+
+Ben Vershbow, Project Director
+
+[en is the Director of NYPL's Digital Library + Labs
+department, oversecing metadata digitization,
+ppermissions/reproductions, and the explorations ofthe
+[NYPL Labs team, Before joining the Library in 2008, he was.
+Lltorial Dizector ofthe institute for the Puture ofthe Book,
+‘a small Brookyn-based think tank exploring the future of
+reading, writing and publishing.
+
+Mauricio Giraldo, Designer/Developer
+
+‘Mauricio spent the last twelve years designing and
+developing interaction design projects for a wide range of
+‘commercial, academic, private and public institutions
+‘Mauricio isan Industrial Designer from Universidad de los
+Andes in Bogot, Colombia where he als lectured for six
+years, He also holds a Master in uman-Computer
+Interaction from Carnegie Mellon University
+
+Kristopher Kelly, Application
+Developer/Data Analyst
+
+ris has a BA in English from Harvard University and a
+“Masters in Science and Information Studies from the
+University of Texas in Austin, Currently, he serves at Senior
+Applications Developer for NYPL's IT group, where he works
+‘ona range of internal applications
+
+David Riordan, Product Manager
+
+David is the produet manager of NYPL Labs. When not at
+‘work, he'sbiking, reading, and involved in policy advocacy
+
+Emeriti
+» Rebveea Austin, Collection Assistant
+» Amy Azzarito, Project Co-Founder
+» Edith Bellinghausen, Intern
+» Barbara Bieck, Intern
+» Ben Chartoff, Intern
+» Amanda Glassman, Community Manager
++ Jayme Hall, Intern
+» Leslie Harker, Intern
+» Katie Kraase, Intern
+» Zeeshan Lakhani, Application Developer
+» Michael Lasearides, Project Advisor/Prototyper
+Meredith Mann, Intern
+
+‘rivaey Policy + Rules and Regulations « Policy on Patron-Generated Web Content + Terms and Conditions
+
+A project of YP. Labs. With generous support from:
+
+© 2 fitimanities
+
+a
+
+i
+
+‘The Robert W. Wilson.
+Charitable Trust
